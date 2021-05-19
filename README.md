@@ -8,4 +8,6 @@ Firstly, this repositorry contains a python script, where tweets from 1st of mar
 
 ### DMI API, Google Mobility Reports & Bayesian Analysis 
 
-Secondly, this repository contains an r markdown where, weather variables and google mobility reports are scraped and preprocessed. Afterwards, a Robust Bayesian Hierarchical Regression model is implemented to understand the relationship between Social Disobidience and feeling towards government on twitter.
+Secondly, this repository contains an r markdown where, weather variables and google mobility reports are scraped and preprocessed. Afterwards, a Robust Bayesian Hierarchical Regression model is implemented to understand the relationship between Social Disobidience and feeling towards government on twitter. 
+
+In the folder 'Analysis' a r function is also uploaded, this is the function i have written to be able to load the DMI data, the data can be found here if replication wants to be done: https://dmigw.govcloud.dk/metObs/v1/bulk/?api-key=e32551a3-e242-45ae-8480-6129201f9a4c.
